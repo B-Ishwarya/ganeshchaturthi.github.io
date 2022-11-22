@@ -1,0 +1,36 @@
+.ganeshcard{
+    background-image: url("https://cdn4.vectorstock.com/i/1000x1000/40/53/banner-for-ganesh-chaturthi-vector-2744053.jpg");
+    background-size: cover;
+    height: 50vh;
+}.headfirst{
+    color:green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top: 120px;
+}
+.cardbottom{
+    background-color:yellow;
+    height: 80vh;
+}
+.imageres{
+    height: 75px;
+    width: 100px;
+}
+.card{
+    background-color:white;
+    width: 150px;
+    border-radius: 20px;
+    padding: 10px;
+    height: 145px;
+    align-items: center;
+    
+    margin: 15px;
+}
+.heading{
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.para{
+    font-weight: bolder;
+}
